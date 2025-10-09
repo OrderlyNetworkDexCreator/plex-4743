@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/Fartliquid_",
   "VITE_SEO_SITE_NAME": "FartLiquid",
   "VITE_SEO_SITE_DESCRIPTION": "Fart yours money onchain on the right site",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/plex-4743/",
+  "VITE_SEO_SITE_URL": "https://fartliquid.club",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@Fartliquid_",
